@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageTranslator", "LanguageTranslator\LanguageTranslator.csproj", "{3A116659-C220-426D-92A3-93565EE42D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLanguageTranslator", "TestLanguageTranslator\TestLanguageTranslator.csproj", "{ADE16942-B5D4-47AB-97A8-E39B58B6EEEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageTranslatorApplication", "LanguageTranslatorApplication\LanguageTranslatorApplication.csproj", "{6011E98D-D3E9-44D5-AA2D-CC516DD531FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A116659-C220-426D-92A3-93565EE42D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A116659-C220-426D-92A3-93565EE42D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A116659-C220-426D-92A3-93565EE42D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A116659-C220-426D-92A3-93565EE42D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE16942-B5D4-47AB-97A8-E39B58B6EEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE16942-B5D4-47AB-97A8-E39B58B6EEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE16942-B5D4-47AB-97A8-E39B58B6EEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE16942-B5D4-47AB-97A8-E39B58B6EEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6011E98D-D3E9-44D5-AA2D-CC516DD531FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6011E98D-D3E9-44D5-AA2D-CC516DD531FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6011E98D-D3E9-44D5-AA2D-CC516DD531FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6011E98D-D3E9-44D5-AA2D-CC516DD531FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

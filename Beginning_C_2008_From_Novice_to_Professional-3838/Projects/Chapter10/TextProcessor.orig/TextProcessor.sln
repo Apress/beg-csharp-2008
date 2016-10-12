@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express Codename Orcas
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextProcessor", "TextProcessor\TextProcessor.csproj", "{CA059846-1964-45B8-9DCB-45612176449F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReadingandWriting", "BinaryReadingandWriting\BinaryReadingandWriting.csproj", "{6E818970-2CD0-467C-A192-EC80383EBDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBinaryReadingandWriting", "TestBinaryReadingandWriting\TestBinaryReadingandWriting.csproj", "{FAB31904-4E59-47ED-B924-F7E746C339BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderWriter", "ReaderWriter\ReaderWriter.csproj", "{E0FEC81F-79F6-4DE0-82F6-B88E7EEFCE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA059846-1964-45B8-9DCB-45612176449F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA059846-1964-45B8-9DCB-45612176449F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA059846-1964-45B8-9DCB-45612176449F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA059846-1964-45B8-9DCB-45612176449F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E818970-2CD0-467C-A192-EC80383EBDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E818970-2CD0-467C-A192-EC80383EBDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E818970-2CD0-467C-A192-EC80383EBDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E818970-2CD0-467C-A192-EC80383EBDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB31904-4E59-47ED-B924-F7E746C339BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB31904-4E59-47ED-B924-F7E746C339BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB31904-4E59-47ED-B924-F7E746C339BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB31904-4E59-47ED-B924-F7E746C339BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FEC81F-79F6-4DE0-82F6-B88E7EEFCE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FEC81F-79F6-4DE0-82F6-B88E7EEFCE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FEC81F-79F6-4DE0-82F6-B88E7EEFCE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FEC81F-79F6-4DE0-82F6-B88E7EEFCE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

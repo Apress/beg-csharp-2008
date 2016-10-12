@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio Codename Orcas
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTax", "LibTax\LibTax.csproj", "{EDDBAF34-7BFE-4ED4-85E8-4243742B8FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTax", "TestTax\TestTax.csproj", "{B2A35223-01CC-4B4C-A6DB-CE1BD6D5F785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDBAF34-7BFE-4ED4-85E8-4243742B8FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDBAF34-7BFE-4ED4-85E8-4243742B8FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDBAF34-7BFE-4ED4-85E8-4243742B8FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDBAF34-7BFE-4ED4-85E8-4243742B8FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A35223-01CC-4B4C-A6DB-CE1BD6D5F785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A35223-01CC-4B4C-A6DB-CE1BD6D5F785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A35223-01CC-4B4C-A6DB-CE1BD6D5F785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A35223-01CC-4B4C-A6DB-CE1BD6D5F785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

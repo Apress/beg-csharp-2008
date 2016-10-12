@@ -1,0 +1,10 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\LearningAboutExceptionHandling.exe
+bin\Release\LearningAboutExceptionHandling.pdb
+obj\Release\LearningAboutExceptionHandling.exe
+obj\Release\LearningAboutExceptionHandling.pdb
+bin\Debug\LearningAboutExceptionHandling.exe
+bin\Debug\LearningAboutExceptionHandling.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LearningAboutExceptionHandling.exe
+obj\Debug\LearningAboutExceptionHandling.pdb

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/software/!svn/ver/206/CsvReader/LumenWorks.Framework.IO/Csv/Exceptions
+END
+MalformedCsvException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/software/!svn/ver/206/CsvReader/LumenWorks.Framework.IO/Csv/Exceptions/MalformedCsvException.cs
+END
+MissingFieldCsvException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/software/!svn/ver/206/CsvReader/LumenWorks.Framework.IO/Csv/Exceptions/MissingFieldCsvException.cs
+END

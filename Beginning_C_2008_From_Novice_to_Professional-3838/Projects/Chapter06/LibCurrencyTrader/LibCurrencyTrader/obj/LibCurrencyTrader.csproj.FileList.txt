@@ -1,0 +1,5 @@
+bin\Release\LibCurrencyTrader.dll
+bin\Release\LibCurrencyTrader.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LibCurrencyTrader.dll
+obj\Release\LibCurrencyTrader.pdb

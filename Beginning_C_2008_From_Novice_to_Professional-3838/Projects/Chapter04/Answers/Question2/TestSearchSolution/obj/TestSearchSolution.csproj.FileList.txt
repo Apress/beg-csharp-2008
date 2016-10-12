@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\TestSearchSolution.exe
+bin\Debug\TestSearchSolution.pdb
+obj\Debug\TestSearchSolution.exe
+obj\Debug\TestSearchSolution.pdb
+bin\Release\TestSearchSolution.exe
+bin\Release\TestSearchSolution.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\TestSearchSolution.exe
+obj\Release\TestSearchSolution.pdb
+bin\Release\SearchSolution.dll
+bin\Release\SearchSolution.pdb
+bin\Debug\SearchSolution.dll
+bin\Debug\SearchSolution.pdb

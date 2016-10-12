@@ -1,0 +1,3 @@
+Because a delegate can reference many implementations
+you could use the same calculation to process many different
+cells.

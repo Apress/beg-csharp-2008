@@ -1,0 +1,52 @@
+8
+
+dir
+228
+http://www.devspace.com/software/CsvReader/LumenWorks.Framework.IO/Csv/Resources
+http://www.devspace.com/software
+
+
+
+2007-05-09T19:32:06.064030Z
+206
+cgross
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7f0fdb5a-26f4-7443-b312-584dc3a59221
+
+ExceptionMessage.resx
+file
+
+
+
+
+2007-05-18T21:33:26.084560Z
+d3aa5cfe0a80811778d330f499ca84bf
+2007-05-09T19:32:06.064030Z
+206
+cgross
+
+ExceptionMessage.Designer.cs
+file
+
+
+
+
+2007-05-18T21:33:26.084560Z
+a7e000333c680228ac080654ba26410b
+2007-05-09T19:32:06.064030Z
+206
+cgross
+

@@ -1,0 +1,88 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.20404</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{17CB1441-3246-42D2-ADFF-85A2F3B6EC7E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Devspace.Trader.Common</RootNamespace>
+    <AssemblyName>Devspace.Trader.Common</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Automators\Factory.cs" />
+    <Compile Include="Automators\hashutilities.cs" />
+    <Compile Include="Automators\TraderBaseClass.cs" />
+    <Compile Include="Automators\TraderCommon.cs" />
+    <Compile Include="Loader\MultipleLoaderHandler.cs" />
+    <Compile Include="Loader\SimpleLoader.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerSpreadsheet\BaseWorksheet.cs" />
+    <Compile Include="ServerSpreadsheet\ISpreadsheetSerializer.cs" />
+    <Compile Include="ServerSpreadsheet\IWorkbook.cs" />
+    <Compile Include="ServerSpreadsheet\IWorksheet.cs" />
+    <Compile Include="ServerSpreadsheet\ObjectReference.cs" />
+    <Compile Include="ServerSpreadsheet\SerializerImpls\CSVSpreadsheetSerializerImpl.cs" />
+    <Compile Include="ServerSpreadsheet\SpreadsheetManager.cs" />
+    <Compile Include="ServerSpreadsheet\Workbook.cs" />
+    <Compile Include="ServerSpreadsheet\Worksheet.cs" />
+    <Compile Include="Tracer\GenerateOutput.cs" />
+    <Compile Include="Tracer\IDebug.cs" />
+    <Compile Include="Tracer\Logging.cs" />
+    <Compile Include="Tracer\ToStringTracer.cs" />
+    <Compile Include="Util\DateTimeComparer.cs" />
+    <Compile Include="Web\AssemblyLoaderHandler.cs" />
+    <Compile Include="Web\IResolver.cs" />
+    <Compile Include="Web\ResolverFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LumenWorks.Framework.IO\LumenWorks.Framework.IO.csproj">
+      <Project>{8EBD24FC-80F8-46F2-B0EF-F2065FE823C0}</Project>
+      <Name>LumenWorks.Framework.IO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,7 @@
+bin\Debug\LumenWorks.Framework.IO.dll
+bin\Debug\LumenWorks.Framework.IO.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LumenWorks.Framework.IO.Csv.Resources.ExceptionMessage.resources
+obj\Debug\LumenWorks.Framework.IO.csproj.GenerateResource.Cache
+obj\Debug\LumenWorks.Framework.IO.dll
+obj\Debug\LumenWorks.Framework.IO.pdb

@@ -1,0 +1,14 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\TestLanguageTranslator.exe
+bin\Release\TestLanguageTranslator.pdb
+bin\Release\LanguageTranslator.dll
+bin\Release\LanguageTranslator.pdb
+obj\Release\TestLanguageTranslator.exe
+obj\Release\TestLanguageTranslator.pdb
+bin\Debug\TestLanguageTranslator.exe
+bin\Debug\TestLanguageTranslator.pdb
+bin\Debug\LanguageTranslator.dll
+bin\Debug\LanguageTranslator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestLanguageTranslator.exe
+obj\Debug\TestLanguageTranslator.pdb

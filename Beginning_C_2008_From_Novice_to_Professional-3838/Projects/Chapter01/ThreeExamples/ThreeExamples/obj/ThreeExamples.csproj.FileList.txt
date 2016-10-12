@@ -1,0 +1,14 @@
+bin\Release\ThreeExamples.exe
+bin\Release\ThreeExamples.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Example1.Properties.Resources.resources
+obj\Release\ThreeExamples.csproj.GenerateResource.Cache
+obj\Release\ThreeExamples.exe
+obj\Release\ThreeExamples.pdb
+bin\Debug\ThreeExamples.exe
+bin\Debug\ThreeExamples.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Example1.Properties.Resources.resources
+obj\Debug\ThreeExamples.csproj.GenerateResource.Cache
+obj\Debug\ThreeExamples.exe
+obj\Debug\ThreeExamples.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express Codename Orcas
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallRuntimeImplementation", "CallRuntimeImplementation\CallRuntimeImplementation.csproj", "{AEDEE601-7559-43F0-9388-DA32D9FF4BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Definitions", "Definitions\Definitions.csproj", "{95113EB1-983C-499A-9DEE-C2347C01715E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementations1", "Implementations1\Implementations1.csproj", "{C3333640-4E23-44BA-AA56-A83D2EA533D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementations2", "Implementations2\Implementations2.csproj", "{5BB212E9-7AA9-435C-899A-531304EDB9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEDEE601-7559-43F0-9388-DA32D9FF4BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDEE601-7559-43F0-9388-DA32D9FF4BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDEE601-7559-43F0-9388-DA32D9FF4BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDEE601-7559-43F0-9388-DA32D9FF4BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95113EB1-983C-499A-9DEE-C2347C01715E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95113EB1-983C-499A-9DEE-C2347C01715E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95113EB1-983C-499A-9DEE-C2347C01715E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95113EB1-983C-499A-9DEE-C2347C01715E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3333640-4E23-44BA-AA56-A83D2EA533D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3333640-4E23-44BA-AA56-A83D2EA533D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3333640-4E23-44BA-AA56-A83D2EA533D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3333640-4E23-44BA-AA56-A83D2EA533D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB212E9-7AA9-435C-899A-531304EDB9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB212E9-7AA9-435C-899A-531304EDB9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB212E9-7AA9-435C-899A-531304EDB9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB212E9-7AA9-435C-899A-531304EDB9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+bin\Release\LanguageTranslatorApplication.exe
+bin\Release\LanguageTranslatorApplication.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\LanguageTranslatorApplication.Properties.Resources.resources
+obj\Release\LanguageTranslatorApplication.csproj.GenerateResource.Cache
+obj\Release\LanguageTranslatorApplication.exe
+obj\Release\LanguageTranslatorApplication.pdb
+bin\Debug\LanguageTranslatorApplication.exe
+bin\Debug\LanguageTranslatorApplication.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LanguageTranslatorApplication.Properties.Resources.resources
+obj\Debug\LanguageTranslatorApplication.csproj.GenerateResource.Cache
+obj\Debug\LanguageTranslatorApplication.exe
+obj\Debug\LanguageTranslatorApplication.pdb

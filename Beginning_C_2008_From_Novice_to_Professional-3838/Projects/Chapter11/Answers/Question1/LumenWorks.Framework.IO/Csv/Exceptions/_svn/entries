@@ -1,0 +1,52 @@
+8
+
+dir
+228
+http://www.devspace.com/software/CsvReader/LumenWorks.Framework.IO/Csv/Exceptions
+http://www.devspace.com/software
+
+
+
+2007-05-09T19:32:06.064030Z
+206
+cgross
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7f0fdb5a-26f4-7443-b312-584dc3a59221
+
+MalformedCsvException.cs
+file
+
+
+
+
+2007-05-18T21:33:25.897060Z
+f8bf58fa752e5ccdc8efaa220f91f812
+2007-05-09T19:32:06.064030Z
+206
+cgross
+
+MissingFieldCsvException.cs
+file
+
+
+
+
+2007-05-18T21:33:25.912685Z
+86262fceb41d0741a011560639f23ced
+2007-05-09T19:32:06.064030Z
+206
+cgross
+

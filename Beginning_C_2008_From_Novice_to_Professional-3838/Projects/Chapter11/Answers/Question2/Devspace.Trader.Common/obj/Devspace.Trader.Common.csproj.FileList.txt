@@ -1,0 +1,5 @@
+bin\Debug\Devspace.Trader.Common.dll
+bin\Debug\Devspace.Trader.Common.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Devspace.Trader.Common.dll
+obj\Debug\Devspace.Trader.Common.pdb

@@ -1,0 +1,14 @@
+bin\Release\Example2.exe
+bin\Release\Example2.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Example2.exe
+obj\Release\Example2.pdb
+bin\Release\Example3.dll
+bin\Release\Example3.pdb
+bin\Debug\Example2.exe
+bin\Debug\Example2.pdb
+bin\Debug\Example3.dll
+bin\Debug\Example3.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Example2.exe
+obj\Debug\Example2.pdb

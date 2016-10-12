@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\TextProcessor\bin\out2.bin"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>"C:\Documents and Settings\cgross\My Documents\Visual Studio Codename Orcas\Projects\TextProcessor\bin\out2.bin"</StartArguments>
+  </PropertyGroup>
+</Project>

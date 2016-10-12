@@ -1,0 +1,46 @@
+8
+
+dir
+228
+http://www.devspace.com/software/CsvReader/LumenWorks.Framework.IO
+http://www.devspace.com/software
+
+
+
+2007-05-09T19:32:06.064030Z
+206
+cgross
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7f0fdb5a-26f4-7443-b312-584dc3a59221
+
+LumenWorks.Framework.IO.csproj
+file
+
+
+
+
+2007-05-18T21:33:26.678310Z
+9614a32059d6b120b233a7bbecd13250
+2007-05-09T19:32:06.064030Z
+206
+cgross
+
+Csv
+dir
+
+Properties
+dir
+
